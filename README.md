@@ -20,3 +20,26 @@ git clone https://github.com/yourusername/world-news-api
 cd world-news-api
 npm install
 npm start
+📖 文档
+详细API文档请参考 docs/API.md
+
+💬 社区与更新
+想要获取最新的新闻资讯和项目更新？
+
+👉 加入我们的 Telegram 频道：T.ME/newsworldcn
+
+我们每天在频道中分享：
+
+🗞️ 精选全球新闻
+
+🔔 实时重大新闻提醒
+
+📈 新闻趋势分析
+
+🛠️ 项目更新通知
+
+🤝 贡献
+欢迎提交 Issue 和 Pull Request！
+
+📄 许可证
+MIT License
