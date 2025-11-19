@@ -3,7 +3,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/yourusername/world-news-api)](https://github.com/yourusername/world-news-api)
 [![Telegram Channel](https://img.shields.io/badge/Telegram-NewsWorld-blue)](https://t.me/newsworldcn)
 
-一个开源的全球新闻聚合API，支持多语言、多来源的实时新闻数据。
+一个开源的全球新闻聚合API，支持多语言、多来源的实时新闻数据。👉 加入我们的 Telegram 频道：T.ME/newsworldcn
 
 ## ✨ 特性
 
